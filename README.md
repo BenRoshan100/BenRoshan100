@@ -7,7 +7,7 @@
   </em>
  </p>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" />
 
 <em>
   
