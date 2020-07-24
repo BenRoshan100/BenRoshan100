@@ -35,7 +35,7 @@
 <code><img height="40" src="https://assets.datacamp.com/production/repositories/4199/datasets/3bdb4c210f93c5735bfd31c2bbd7e290f94c4a2b/matplotlib_logo.png" title="matplotlib"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" title="matplotlib"></code>
 
-### GitHub Stats (Public Contributions Only 😑)
+### GitHub Stats (Public Contributions  🧑‍💻)
 
 <p align="center">
 <a href="https://github.com/BenRoshan100"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=benroshan100&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="Ben's GitHub Stats"></a>
