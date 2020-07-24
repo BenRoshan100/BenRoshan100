@@ -45,6 +45,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ben%20Roshan-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benroshan100/)](https://www.linkedin.com/in/benroshan100/) [![Kaggle Badge](https://img.shields.io/badge/-Ben%20Roshan-3368FF?style=flat-circle&labelColor=3368FF&logo=kaggle&logoColor=white&link=https://www.kaggle.com/benroshan)](https://www.kaggle.com/benroshan) [![GitHub Badge](https://img.shields.io/badge/-@benroshan100-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/BenRoshan100)](https://github.com/BenRoshan100) [![Gmail Badge](https://img.shields.io/badge/-@benroshan100-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:benroshan100@gmail.com)](mailto:benroshan100@gmail.com)
 
+##### ReadMe Template Credits:[Kishan lal](https://github.com/kishan0725)
 
 ### Top repositories
 
@@ -82,7 +83,3 @@
 
 </p>
 
-
-
-
-##### ReadMe Template Credits:[Kishan lal](https://github.com/kishan0725)
