@@ -51,8 +51,8 @@
 
 <p align="center">
   
-<a href="https://github.com/BenRoshan100/Bank-Marketing-Campaign-Predicitive-Analytics">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=benroshan100&repo=Bank-Marketing-Campaign-Predicitive-Analytics&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/BenRoshan100/Anime-Recommender-system">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=benroshan100&repo=Anime-Recommender-system&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 </p>
@@ -69,8 +69,8 @@
 
 <p align="center">
   
-<a href="https://github.com/BenRoshan100/Anime-Recommender-system">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=benroshan100&repo=Anime-Recommender-system&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/BenRoshan100/Bank-Marketing-Campaign-Predicitive-Analytics">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=benroshan100&repo=Bank-Marketing-Campaign-Predicitive-Analytics&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 </p>
