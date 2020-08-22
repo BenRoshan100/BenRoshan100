@@ -18,7 +18,7 @@
 - 🤔 My interests are with Data Science,Marketing analytics etc..;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via benroshan100@gmail.com to reach me.
-- 📝 See my [Resume](https://drive.google.com/drive/folders/17UKOvd6sxUuRxAHGXZnDkMr5ulKF-_Wz) to get more info.
+- 📝 See my [Resume](https://drive.google.com/drive/folders/17UKOvd6sxUuRxAHGXZnDkMr5ulKF-_Wz?usp=sharing) to get more info.
 <br/> 
 </em>
 
