@@ -69,8 +69,8 @@
 
 <p align="center">
   
-<a href="https://github.com/BenRoshan100/Marketing-Analytics-Online-Shopper-s-Intention">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=benroshan100&repo=Marketing-Analytics-Online-Shopper-s-Intention&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+<a href="https://github.com/BenRoshan100/Time-Series-Analysis-Nifty50">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=benroshan100&repo=Time-Series-Analysis-Nifty50&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 </p>
