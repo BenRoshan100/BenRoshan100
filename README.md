@@ -34,6 +34,8 @@
 <code><img height="40" src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/Seaborn-logo.png" title="seaborn"></code>
 <code><img height="40" src="https://assets.datacamp.com/production/repositories/4199/datasets/3bdb4c210f93c5735bfd31c2bbd7e290f94c4a2b/matplotlib_logo.png" title="matplotlib"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" title="matplotlib"></code>
+<code><img height="40" src="https://3.bp.blogspot.com/-d-nV7xJRmpw/Xo328dcAx3I/AAAAAAAAC7Q/qlqJOle6XIosJ3CGIDJ04F3Voh1iXDg0gCLcBGAsYHQ/s1600/TF_FullColor_Icon.jpg" title="tensorflow"></code>
+<code><img height="40" src="https://img.stackshare.io/service/5601/keras.png" title="keras"></code>
 
 ### GitHub Stats (Public Contributions  🧑‍💻)
 
