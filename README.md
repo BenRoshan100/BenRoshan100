@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=benroshan100&style=flat-square)
 <p>
   <em>
-    A <b>business analytics student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> and a passionate self-taught <b>ML programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Neyveli, India.
+    A <b>data analyst </b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20> with a 1 year experience across Fraud and Risk <b>ML programmer</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=35 height=25> from Neyveli, India.
   </em>
  </p>
 
@@ -13,9 +13,9 @@
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I worked as data analytics intern at [Blitzjobs](https://blitzjobs.in/);
-- 💼 I’m pursuing a Master's degree in MBA-Business Analytics at [CMSBS](https://bschool.cms.ac.in/);
-- 🤔 My interests are with Data Science,Marketing analytics etc..;
+- 👨🏽‍💻 I;m working as data analyst at [CodaPayments](https://www.codapayments.com/);
+- 💼 Pursued a Master's degree in MBA-Business Analytics at [CMSBS](https://bschool.cms.ac.in/);
+- 🤔 My interests are with Data Science,Fraud and Marketing analytics etc..;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via benroshan100@gmail.com to reach me.
 - 📝 See my [Resume](https://drive.google.com/drive/folders/17UKOvd6sxUuRxAHGXZnDkMr5ulKF-_Wz?usp=sharing) to get more info.
