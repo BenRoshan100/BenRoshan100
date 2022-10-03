@@ -24,11 +24,10 @@
 
 ### Worked with
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="python"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" title="C"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" title="mysql"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" title="git"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" title="sklearn"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="python"></code>
+<code><img height="40" src="https://images.ctfassets.net/fi0zmnwlsnja/6NglzN2XUTFO5snsIcKIM/2d528578d42ae86a3fe71e0cf56c6770/amazon-athena-cover.png" title="AWS Athena SQL"></code>
+<code><img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="git"></code>
+<code><img height="40" src="https://e7.pngegg.com/pngimages/905/45/png-clipart-scikit-learn-python-scikit-logo-brand-learning-text-computer.png" title="sklearn"></code>
 <code><img height="40" src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" title="pandas"></code>
 <code><img height="40" src="https://bids.berkeley.edu/sites/default/files/styles/400x225/public/projects/numpy_logo_project_page_banner.png?itok=jaJeRlWs" title="numpy"></code>
 <code><img height="40" src="https://data-flair.training/blogs/wp-content/uploads/sites/2/2019/07/Seaborn-logo.png" title="seaborn"></code>
