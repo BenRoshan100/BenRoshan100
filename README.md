@@ -15,7 +15,7 @@ One year's worth of experience as a Data Analyst for a fintech firm. Specialized
 
 - 👨🏽‍💻 I'm working as data analyst at [CodaPayments](https://www.codapayments.com/).
 - 💼 Pursued a Master's degree in MBA-Business Analytics at [CMSBS](https://bschool.cms.ac.in/).
-- 🤔 My interests are with Data Science,Fraud and Marketing analytics etc..
+- 🤔 My interests are with crunching numbers and specialized in Fraud Risk and Marketing analytics etc..
 - 💬 Ask me about anything, I am happy to help.
 - 📫 Please email via benroshan100@gmail.com to reach me.
 - 📝 Checkout my [Linkedin](https://www.linkedin.com/in/benroshan100/) to get more info.
