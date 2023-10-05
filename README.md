@@ -13,7 +13,7 @@ One year's worth of experience as a Data Analyst for a fintech firm. Specialized
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I'm working as data analyst at [CodaPayments](https://www.codapayments.com/).
+- 👨🏽‍💻 I'm working as data analyst at [Juspay](https://juspay.in/)
 - 💼 Pursued a Master's degree in MBA-Business Analytics at [CMSBS](https://bschool.cms.ac.in/).
 - 🤔 My interests are with crunching numbers and specialized in Fraud Risk and Marketing analytics etc..
 - 💬 Ask me about anything, I am happy to help.
