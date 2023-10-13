@@ -15,8 +15,7 @@ One year's worth of experience as a Data Analyst for a fintech firm. Specialized
 
 - 👨🏽‍💻 I'm working as data analyst at [Juspay](https://juspay.in/)
 - 💼 Pursued a Master's degree in MBA-Business Analytics at [CMSBS](https://bschool.cms.ac.in/).
-- 🤔 My interests are with crunching numbers and specialized in Fraud Risk and Marketing analytics etc..
-- 💬 Ask me about anything, I am happy to help.
+- 🤔 My interests are with crunching numbers and specialized in Product and Fraud analytics etc..
 - 📫 Please email via benroshan100@gmail.com to reach me.
 - 📝 Checkout my [Linkedin](https://www.linkedin.com/in/benroshan100/) to get more info.
 <br/> 
