@@ -46,40 +46,5 @@ One year's worth of experience as a Data Analyst for a fintech firm. Specialized
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ben%20Roshan-blue?style=flat-circle&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/benroshan100/)](https://www.linkedin.com/in/benroshan100/) [![Kaggle Badge](https://img.shields.io/badge/-Ben%20Roshan-3368FF?style=flat-circle&labelColor=3368FF&logo=kaggle&logoColor=white&link=https://www.kaggle.com/benroshan)](https://www.kaggle.com/benroshan) [![GitHub Badge](https://img.shields.io/badge/-@benroshan100-24292e?style=flat-circle&labelColor=24292e&logo=github&logoColor=white&link=https://github.com/BenRoshan100)](https://github.com/BenRoshan100) [![Medium Badge](https://img.shields.io/badge/-Benroshan-24292e?style=flat-circle&labelColor=24292e&logo=medium&logoColor=white&link=https://medium.com/@benroshan)](https://medium.com/@benroshan) [![Gmail Badge](https://img.shields.io/badge/-@benroshan100-d54b3d?style=flat-circle&labelColor=d54b3d&logo=gmail&logoColor=white&link=mailto:benroshan100@gmail.com)](mailto:benroshan100@gmail.com)
 
-
-### Top repositories
-
-<p align="center">
-  
-<a href="https://github.com/BenRoshan100/Anime-Recommender-system">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=benroshan100&repo=Anime-Recommender-system&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-</p>
-
-<p align="center">
-  
-<a href="https://github.com/BenRoshan100/Sentiment-analysis-Amazon-reviews">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=benroshan100&repo=Sentiment-analysis-Amazon-reviews&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />  
-</a>
-
-</p>
-
-<br />
-
-<p align="center">
-  
-<a href="https://github.com/BenRoshan100/Time-Series-Analysis-Nifty50">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=benroshan100&repo=Time-Series-Analysis-Nifty50&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-</p>
-
-<p align="center">
-  
-<a href="https://github.com/BenRoshan100/Customer-segmentation-via-K-means">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=benroshan100&repo=Customer-segmentation-via-K-means&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
 </p>
 
