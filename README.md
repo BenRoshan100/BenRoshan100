@@ -7,7 +7,7 @@ Two year's worth of experience as a Data Analyst in the arena of fintech and mob
   </em>
  </p>
 
-<img align="right" alt="Coder GIF" height=250 width=350 src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif" />
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzN6YnkyaGZmYnVwMDh4MHd5cTRmcmVkYzN2NWg4OXZuNGhpZWw5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <em>
   
