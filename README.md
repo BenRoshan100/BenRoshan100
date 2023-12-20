@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=benroshan100&style=flat-square)
 <p>
   <em>
-One year's worth of experience as a Data Analyst for a fintech firm. Specialized in crunching numbers with the help of SQL and generating automated reports with the help of Python. Curated critical KPI metrics which have a significant impact on business drivers. Have also developed multiple dashboards via Quicksight and Google Data Studio which has helped business steer into making better data-driven decisions.<br> <b>Tech stack : Python, R, SQL, Quicksight, Tableau, PowerBI <b>
+Two year's worth of experience as a Data Analyst in the arena of fintech and mobility. Specialized in crunching numbers with the help of SQL and generating automated reports with the help of Python and R. Curated critical KPI metrics which have a significant impact on business drivers. Have also developed multiple dashboards via Metabase, Grafana, Quicksight and Looker Studio which has helped business steer into making better data-driven decisions.<br> <b>Tech stack : Python, R, SQL, Quicksight, Tableau, PowerBI, Git, Metabase, Grafana <b>
   </em>
  </p>
 
