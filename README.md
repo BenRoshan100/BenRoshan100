@@ -13,7 +13,7 @@ Two year's worth of experience as a Data Analyst in the arena of fintech and mob
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I'm working as data analyst at [Juspay](https://juspay.in/)
+- 👨🏽‍💻 I'm working as data analyst at [Namma Yatri](https://nammayatri.in/open?cc=)
 - 💼 Pursued a Master's degree in MBA-Business Analytics at [CMSBS](https://bschool.cms.ac.in/).
 - 🤔 My interests are with crunching numbers and specialized in Product and Fraud analytics etc..
 - 📫 Please email via benroshan100@gmail.com to reach me.
